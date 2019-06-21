@@ -24,4 +24,4 @@ A python interpreter (I used Spyder IDE)
 * [Pandas](https://pandas.pydata.org/) - Library used for plots
 
 ## Disclaimer
-This was made for educational purposes. It was for the CIS 431 Design and Analysis course at Manhattan College. 
+This was made for educational purposes. It was for the CIS 431 Design and Analysis course at Manhattan College.
