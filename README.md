@@ -1,5 +1,5 @@
 # MTA Station Data
-This is a project utilizing Flask and Pandas to search the MTA website for metrocard "swipe" data at each of the city's subway stations.
+A Python project utilizing the Flask microframework and Pandas library to search the MTA website for the number of MetroCard swipes at each of New YorkCity’s subway stations
 
 * [MTA Fare Data](http://web.mta.info/developers/fare.html) - Contains public fare data files
 * [Description File](http://web.mta.info/developers/resources/nyct/fares/fare_type_description.txt) - Describes the fields in the dataset
